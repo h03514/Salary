@@ -1,0 +1,9 @@
+D:\CSharp\Salary\Salary\Salary\bin\Debug\Salary.exe.config
+D:\CSharp\Salary\Salary\Salary\bin\Debug\Salary.exe
+D:\CSharp\Salary\Salary\Salary\bin\Debug\Salary.pdb
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.csprojAssemblyReference.cache
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.Form1.resources
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.Properties.Resources.resources
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.csproj.GenerateResource.cache
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.exe
+D:\CSharp\Salary\Salary\Salary\obj\Debug\Salary.pdb
